@@ -1,0 +1,36 @@
+.navbar {
+    
+    font-size: large;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    border: solid rgb(40, 10, 206);
+    border-width: 1 2px;
+    height: 100px;
+    background-color: lightblue;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.todo-list {
+
+    display: flex;
+
+
+    color: rgb(206, 231, 231);
+    background-color: rgb(95, 97, 95);
+    border-radius: 1cm;
+    border-bottom: 1px solid #cecece;
+    width: 30%;
+    border-width: 1mm;
+    border-style: dotted;
+    font-weight: 100;
+    font-size: 15px;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+}
