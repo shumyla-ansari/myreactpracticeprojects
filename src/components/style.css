@@ -16,7 +16,7 @@
 
 }
 
-.todo-list {
+.todo-item {
 
     display: flex;
 
@@ -33,4 +33,9 @@
     align-items: center;
     justify-content: flex-start;
     text-align: left;
+}
+
+.todo-list {
+    color: black;
+
 }

@@ -11,6 +11,8 @@ return (
   <h1>This is arrow function for App.js</h1>
      <Header />
      <MainContext />
+     </div>
+<div className="todo-list">
      <Todo />
      <Todo />
      <Footer />
