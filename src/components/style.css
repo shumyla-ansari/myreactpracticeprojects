@@ -39,3 +39,31 @@
     color: black;
 
 }
+
+.contact{
+
+    border-bottom: 1cm;
+    background-color: bisque;
+    padding: 10px 10px;
+    border-width: 1px;
+    align-items: center;
+}
+
+.contact-card{
+
+    border-bottom: 1cm;
+    background-color: rgb(196, 200, 255);
+    padding: 10px 10px;
+    border-width: 1px;
+    align-items: center;
+
+
+}
+
+.img{
+    
+    width : 450; 
+    height : 300; 
+    alt : cat;
+    align-items: center;
+    }
